@@ -1,0 +1,25 @@
+
+NTUSER.*
+*.log
+*.ini
+.DS_Store
+Thumbs.db
+.bash_history
+.ssh/
+.viminfo
+/AppData/
+/Documents/
+/Desktop/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/Pictures/
+/OneDrive/
+/Saved Games/
+/Searches/
+/Templates/
+/Contacts/
+/Videos/
+/MUMUMV/
+

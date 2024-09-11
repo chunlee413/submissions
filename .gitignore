@@ -1,0 +1,28 @@
+# 忽略系统文件和配置文件
+NTUSER.*
+*.log
+*.ini
+Thumbs.db
+.bash_history
+.gitconfig
+.viminfo
+.ssh/
+
+# 忽略系统目录
+/AppData/
+/Documents/
+/Desktop/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/Pictures/
+/OneDrive/
+/Saved Games/
+/Searches/
+/Templates/
+/Contacts/
+/Videos/
+
+# 忽略特定文件
+mumu_boot.txt
